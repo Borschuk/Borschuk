@@ -8,6 +8,7 @@ focused on React, TypeScript, Next.js and modern SPA architectures.
 ## Contacts
 - Email: borschuk.a.s@gmail.com
 - [linkedin](https://www.linkedin.com/in/andrii-borshchuk-0a061210a/).
+- [CV]([https://www.linkedin.com/in/andrii-borshchuk-0a061210a/](https://borshchuk-cv-8pm3.vercel.app/)).
 
 ---
 
